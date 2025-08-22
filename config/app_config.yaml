@@ -1,0 +1,6 @@
+cache_enabled: true
+calculate_metrics: false
+force_recompute: false
+gpu_enabled: true
+logging_level: INFO
+theme: light
