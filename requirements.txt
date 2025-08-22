@@ -22,7 +22,7 @@ seaborn==0.12.2
 plotly==5.16.1
 
 # GUI
-tk==8.6.12
+# tk is installed via system packages
 
 # PDF Generation
 reportlab==4.0.4
